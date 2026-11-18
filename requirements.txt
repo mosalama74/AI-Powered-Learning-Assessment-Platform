@@ -1,0 +1,16 @@
+# Orchestration
+langgraph>=1.0
+langchain-core>=1.0
+# Gemini (chat model + embeddings)
+langchain-google-genai>=4.0
+# Vector database and chunking
+chromadb>=1.0
+langchain-text-splitters>=0.3
+# Typed schemas and config
+pydantic>=2.7
+python-dotenv>=1.0
+# Notebook and tests
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0
+pytest>=8.0

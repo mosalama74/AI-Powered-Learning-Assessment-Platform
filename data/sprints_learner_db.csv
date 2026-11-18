@@ -1,0 +1,26 @@
+learner_id,name,bootcamp_track,completed_modules,python_assignment_score,target_salary_egp,preferred_employers,readiness_status
+SPR-1001,Ahmed Youssef,Advanced Agentic AI,12,95,30000,"Fawry, Swvl",Ready for Placement
+SPR-1002,Mona Ali,Backend,8,78,18000,"Vodafone Egypt, e& Egypt",In Progress
+SPR-1003,Karim Hassan,Frontend,15,88,15000,"Swvl",Ready for Placement
+SPR-1004,Fatima Ibrahim,Data Science,5,60,25000,"Fawry",Needs Review
+SPR-1005,Mahmoud Tareq,Advanced Agentic AI,10,92,35000,"e& Egypt, Fawry",In Progress
+SPR-1006,Salma Ezzat,Frontend,14,85,12000,"Vodafone Egypt, Swvl",Ready for Placement
+SPR-1007,Youssef Adel,Backend,2,40,15000,"Fawry",Needs Review
+SPR-1008,Nourhan Salem,Data Science,12,89,28000,"Swvl, e& Egypt",Ready for Placement
+SPR-1009,Omar Farouk,Advanced Agentic AI,7,75,22000,"Vodafone Egypt",In Progress
+SPR-1010,Habiba Mansour,Frontend,15,90,14000,"Swvl, Fawry",Ready for Placement
+SPR-1011,Tarek Said,Backend,11,81,17000,"Fawry, e& Egypt",In Progress
+SPR-1012,Laila Gamal,Data Science,3,50,20000,"Vodafone Egypt",Needs Review
+SPR-1013,Ali Mostafa,Advanced Agentic AI,12,98,40000,"Fawry, Swvl, e& Egypt",Ready for Placement
+SPR-1014,Dina Magdy,Backend,14,88,20000,"e& Egypt",Ready for Placement
+SPR-1015,Kareem Zaki,Frontend,5,65,10000,"Swvl",In Progress
+SPR-1016,Rana Shawky,Data Science,11,82,24000,"Fawry, Vodafone Egypt",In Progress
+SPR-1017,Hassan Othman,Advanced Agentic AI,4,55,25000,"e& Egypt",Needs Review
+SPR-1018,Sara Nabil,Frontend,15,95,16000,"Fawry, Swvl",Ready for Placement
+SPR-1019,Mostafa Amin,Backend,9,72,16000,"Vodafone Egypt",In Progress
+SPR-1020,Nadine Fawzy,Data Science,12,91,30000,"Swvl, e& Egypt",Ready for Placement
+SPR-1021,Eslam Wael,Advanced Agentic AI,1,0,20000,"Fawry",Dropped
+SPR-1022,Yasmin Fouad,Backend,13,87,19000,"Vodafone Egypt, Fawry",In Progress
+SPR-1023,Khaled Sobhy,Frontend,15,89,15000,"e& Egypt, Swvl",Ready for Placement
+SPR-1024,Mariam Radwan,Data Science,6,68,22000,"Fawry",In Progress
+SPR-1025,Amr Helmy,Advanced Agentic AI,12,100,45000,"Fawry, e& Egypt, Swvl",Ready for Placement
